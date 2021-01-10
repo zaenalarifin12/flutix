@@ -14,11 +14,11 @@
 
 ## 📸 Example Android
 <pre>
-    <img src="screenshot/register.jpg" width="30%">    <img src="screenshot/genre.jpg" width="30%">
-    <img src="screenshot/confirm account.jpg" width="30%"> <img src="screenshot/home.jpg" width="30%">
-    <img src="screenshot/home bottom.jpg" width="30%">  <img src="screenshot/detail movie.jpg" width="30%">    
-    <img src="screenshot/select date.jpg" width="30%"> <img src="screenshot/select chair.jpg" width="30%">
-    <img src="screenshot/checkout.jpg" width="30%"> <img src="screenshot/my ticket.jpg" width="30%">
+    <img src="screenshot/register.jpg" width="30%">     <img src="screenshot/genre.jpg" width="30%">
+    <img src="screenshot/confirm account.jpg" width="30%">      <img src="screenshot/home.jpg" width="30%">
+    <img src="screenshot/bottom home.jpg" width="30%">      <img src="screenshot/detail movie.jpg" width="30%">    
+    <img src="screenshot/select date.jpg" width="30%">      <img src="screenshot/select chair.jpg" width="30%">
+    <img src="screenshot/checkout.jpg" width="30%">     <img src="screenshot/my ticket.jpg" width="30%">
     <img src="screenshot/ticket detail.jpg" width="30%">
 </pre>
 
